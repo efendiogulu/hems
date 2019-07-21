@@ -1,0 +1,8 @@
+STOCHASTIC OPTIMIZATOIN STEPS
+1- OPEN THE TERMINAL 
+2- TYPE THE CODE BELOW
+
+runef --model-directory=<ReferenceModelDirectory^C--instance-directory=<ScenarioStructureDirectory> --traceback --verbose --activate-jsonio-solution-saver --solver=gurobi --jsonsaver-output-name=<directory>/results.json --solve
+
+
+3-BEFORE HIT ENTER CHECK THE DIRECTORIES FOR model, instance and the jsonsaver
